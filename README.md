@@ -91,5 +91,8 @@ ________________________________________
 The AtliQ Hotels dashboard is an invaluable tool for strategic decision-making. It clearly identifies profitable markets like Mumbai and highlights the success of partnerships with platforms like MakeMyTrip. The insights gained from this analysis, particularly concerning weekend peaks and guest segmentation, provide a solid foundation for management to implement targeted improvements in pricing, marketing, and overall operational efficiency to drive future growth.
 ________________________________________
 💻 **Presentation**
+
 ________________________________________
 📈 **Live Dashboard**
+
+[Link](https://app.powerbi.com/view?r=eyJrIjoiYTZkMDgxMDAtNTBlMy00NTE4LThiNGEtNzVhMzE1YWUwZjlmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
