@@ -9,9 +9,9 @@ This Power BI dashboard serves as a dynamic and comprehensive executive summary 
 ________________________________________
 📋 **Contents**
 
-1. [Home View](Home View.png)
-2. [Revenue View](Revenue View.png)
-3. [Performance View](Performance View.png)
+1. [Home View] (Home View.png)
+2. [Revenue View] (Revenue View.png)
+3. [Performance View] (Performance View.png)
 ________________________________________
 📈**Key Features and Elaborated Insights**
 
