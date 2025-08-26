@@ -90,6 +90,15 @@ ________________________________________
 
 The AtliQ Hotels dashboard is an invaluable tool for strategic decision-making. It clearly identifies profitable markets like Mumbai and highlights the success of partnerships with platforms like MakeMyTrip. The insights gained from this analysis, particularly concerning weekend peaks and guest segmentation, provide a solid foundation for management to implement targeted improvements in pricing, marketing, and overall operational efficiency to drive future growth.
 ________________________________________
+**Abbreviations**
+
+**ADR**: Average Daily Rate
+**RevPAR**: Revenue Per Available Room
+**DBRN**: Daily Booked Room Nights
+**DSRN**: Daily Sellable Room Nights
+**DURN**: Daily Utilized Room Nights
+**WoW**: Week on Week
+________________________________________
 💻 **Presentation**
 
 [Link](https://github.com/sherinjthomas29/AtliQ-Grand-Hospitality-Domain-Power-BI-Dashboard/blob/main/Presentation.pdf)
