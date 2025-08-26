@@ -11,7 +11,7 @@ ________________________________________
 
 1. [Home View](https://github.com/sherinjthomas29/AtliQ-Grand-Hospitality-Domain-Power-BI-Dashboard/blob/main/Home%20View.png)
 2. [Revenue View](https://github.com/sherinjthomas29/AtliQ-Grand-Hospitality-Domain-Power-BI-Dashboard/blob/main/Revenue%20View.png)
-3. [Performance View](https://github.com/sherinjthomas29/AtliQ-Grand-Hospitality-Domain-Power-BI-Dashboard/blob/main/Performance%20View.png))
+3. [Performance View](https://github.com/sherinjthomas29/AtliQ-Grand-Hospitality-Domain-Power-BI-Dashboard/blob/main/Performance%20View.png)
 ________________________________________
 📈**Key Features and Elaborated Insights**
 
