@@ -8,6 +8,10 @@ ________________________________________
 This Power BI dashboard serves as a dynamic and comprehensive executive summary for the AtliQ Hotels chain. It transforms raw hospitality data into actionable insights, empowering management to monitor performance, identify trends, and make strategic decisions. The dashboard is designed to be fully interactive, allowing for in-depth analysis of financial, operational, and market-specific metrics.
 ________________________________________
 📋 **Contents**
+
+1. [Home View](Home View.png)
+2. [Revenue View](Revenue View.png)
+3. [Performance View](Performance View.png)
 ________________________________________
 📈**Key Features and Elaborated Insights**
 
