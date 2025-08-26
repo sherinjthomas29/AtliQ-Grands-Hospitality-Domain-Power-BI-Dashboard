@@ -1,0 +1,17 @@
+AtliQ Grands/
+├── .gitignore
+├── README.md
+├── AtliQ Hotels.pbix
+├── /data
+│   ├── /raw_data
+│   ├── /excel
+│   ├── /csv
+├── /images
+    ├── home_view.png
+    ├── revenue_view.png
+    └── performance_view.png
+
+
+
+
+
