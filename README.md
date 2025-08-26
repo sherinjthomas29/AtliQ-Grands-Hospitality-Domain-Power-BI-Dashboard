@@ -92,6 +92,7 @@ The AtliQ Hotels dashboard is an invaluable tool for strategic decision-making. 
 ________________________________________
 💻 **Presentation**
 
+[Link](https://github.com/sherinjthomas29/AtliQ-Grand-Hospitality-Domain-Power-BI-Dashboard/blob/main/AtliQ%20Grands.pptx)
 ________________________________________
 📈 **Live Dashboard**
 
