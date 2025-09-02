@@ -92,12 +92,12 @@ The AtliQ Hotels dashboard is an invaluable tool for strategic decision-making. 
 ________________________________________
 **Abbreviations**
 
-**ADR**: Average Daily Rate
-**RevPAR**: Revenue Per Available Room
-**DBRN**: Daily Booked Room Nights
-**DSRN**: Daily Sellable Room Nights
-**DURN**: Daily Utilized Room Nights
-**WoW**: Week on Week
+**ADR**: Average Daily Rate,
+ **RevPAR**: Revenue Per Available Room,
+ **DBRN**: Daily Booked Room Nights,
+ **DSRN**: Daily Sellable Room Nights,
+ **DURN**: Daily Utilized Room Nights,
+ **WoW**: Week on Week
 ________________________________________
 💻 **Presentation**
 
