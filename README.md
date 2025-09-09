@@ -56,15 +56,15 @@ ________________________________________
 ## 💡**Suggestions and Improvement Areas**
 Based on the dashboard analysis, here are some key areas AtliQ Hotels could focus on for improvement:
 
-**Market-Specific Strategy**: The dashboard shows a significant disparity in ADR and RevPAR between markets like Mumbai and others. The company should analyze the factors contributing to Mumbai's success (e.g., pricing, amenities, target audience) and see if these strategies can be replicated in other, lower-performing markets to boost revenue.
+**Market Strategy**: Analyze Mumbai's success factors (pricing, amenities) and apply them to boost performance in lower-performing markets.
 
-**Weekend Peak Management**: The strong performance on weekends presents both an opportunity and a challenge. AtliQ Hotels could consider dynamic pricing strategies to maximize revenue during these peak periods. Conversely, they should explore marketing campaigns or special offers to increase occupancy on weekdays, which appear to have lower demand.
+**Weekend Management**: Use dynamic pricing to maximize revenue on peak weekends and run special offers to increase weekday occupancy.
 
-**Booking Channel Optimization**: While MakeMyTrip is the top booking channel, the company should investigate the cost per acquisition for each platform. If the commission rates for MakeMyTrip are high, they could explore ways to increase direct bookings through their own website or app by offering exclusive deals or loyalty points.
+**Booking Channel Optimization**: Reduce reliance on high-commission platforms like MakeMyTrip by increasing direct bookings through exclusive deals and loyalty programs.
 
-**Targeted Guest Marketing**: The dominance of the "Business" guest segment suggests a strong B2B focus. AtliQ Hotels could further analyze this segment to identify key corporate clients or industries and create tailored packages. They could also launch specific campaigns to attract more Leisure and Transit guests to diversify their customer base.
+**Targeted Marketing**: Focus on the dominant Business segment with tailored B2B packages, while also launching campaigns to attract more Leisure and Transit guests.
 
-**Room Class Profitability**: The dashboard provides occupancy rates by room class. A deeper analysis, perhaps by integrating room-specific revenue data, could help determine the profitability of each room type. If a certain room class has high occupancy but low RevPAR, it might be an area for price adjustments or a re-evaluation of its market position.
+**Room Class Profitability**: Conduct a deeper analysis of room-specific revenue to adjust pricing or reposition room classes with high occupancy but low RevPAR.
 ________________________________________
 ## 📝**Conclusion**
 
