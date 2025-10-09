@@ -1,5 +1,7 @@
 # AtliQ-Grand-Hospitality-Domain-Power-BI-Dashboard
 
+💻 [Presentation](https://github.com/sherinjthomas29/AtliQ-Grand-Hospitality-Domain-Power-BI-Dashboard/blob/main/Presentation.pdf) | 📈 [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODE0MzFhMWEtYjUzYi00ZjcwLTgxODctYjFmMDMwYzZmYjQ3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9) | ▶️ [Presentation](https://youtu.be/9gdjynHwfqY)
+
 This Power BI dashboard offers a comprehensive executive analysis of AtliQ Hotels, focusing on critical KPIs like revenue and occupancy. By transforming raw data from sources like Excel, it provides actionable insights into market performance, booking trends, and guest demographics, empowering data-driven strategic decisions.
 ________________________________________
 
@@ -79,10 +81,3 @@ ________________________________________
  **DURN**: Daily Utilized Room Nights,
  **WoW**: Week on Week
 ________________________________________
-## 💻 **Presentation**
-
-[Link](https://github.com/sherinjthomas29/AtliQ-Grand-Hospitality-Domain-Power-BI-Dashboard/blob/main/Presentation.pdf)
-________________________________________
-## 📈 **Live Dashboard**
-
-[Link](https://app.powerbi.com/view?r=eyJrIjoiODE0MzFhMWEtYjUzYi00ZjcwLTgxODctYjFmMDMwYzZmYjQ3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
