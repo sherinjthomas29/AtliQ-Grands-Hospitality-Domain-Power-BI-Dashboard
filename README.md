@@ -1,4 +1,4 @@
-# AtliQ-Grand-Hospitality-Domain-Power-BI-Dashboard
+# AtliQ-Grands-Hospitality-Domain-Power-BI-Dashboard
 
 💻 [Report](https://github.com/sherinjthomas29/AtliQ-Grand-Hospitality-Domain-Power-BI-Dashboard/blob/main/Presentation.pdf) | 📈 [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODE0MzFhMWEtYjUzYi00ZjcwLTgxODctYjFmMDMwYzZmYjQ3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9) | ▶️ [Presentation](https://youtu.be/9gdjynHwfqY)
 
